@@ -1,0 +1,82 @@
+.forma {
+    border: solid black 2px;
+    padding:20px;
+    max-width: 410px;
+    padding-top: 0;
+   background-color:#f5f0e1;
+}
+
+.forma2 {
+    border: solid black 2px;
+    padding:20px;
+    max-width: 410px;
+    padding-top: 0;
+   background-color:#f5f0e1;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Arial;
+}
+
+#tekst {
+    font-size: 15px;
+    text-align: center;
+   font-family:Arial;
+}
+
+input {
+    height:30px;
+    font-family:Arial;
+}
+
+#sifra {
+    width:395px;
+    font-family:Arial;
+}
+
+#sifra2 {
+    width:395px;
+    font-family:Arial;
+}
+
+#email {
+    width:395px;
+    font-family:Arial;
+}
+
+#ime2 {
+    font-family:Arial;
+    width:395px;
+    text-align: center;
+}
+
+
+
+#sifra3 {
+    font-family:Arial;
+    width:395px;
+    text-align: center;
+}
+
+#dugme {
+    height:40px;
+    width:403px;
+    background-color:limegreen;
+    font-size: large;
+    color: #fff;
+    font-weight: bold;
+    font-family:Arial;
+}
+
+#dugme2 {
+    height:40px;
+    width:403px;
+    background-color:limegreen;
+    font-size: large;
+    color: #fff;
+    font-weight: bold;
+    font-family:Arial;
+}
